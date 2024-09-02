@@ -1,4 +1,4 @@
-package Practice1;
+	package Practice1;
 
 public class TestCase2 {
 
@@ -6,6 +6,10 @@ public class TestCase2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test case2");
+		
+		System.out.println("Test case3");
+		System.out.println("Test case4");
+		System.out.println("Test case5");
 
 	}
 
